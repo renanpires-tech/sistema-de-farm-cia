@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Farmácia",
+  "description": "Uma aplicação front-end completa em React para gerenciar uma farmácia, consumindo uma API REST. Inclui gerenciamento de medicamentos, clientes, vendas, estoque e alertas.",
+  "requestFramePermissions": []
+}
